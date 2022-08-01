@@ -2,11 +2,12 @@
 
 This project is made with C progarmming language.
 
-```cmd
 #change directory to project dir
+```cmd
 cd ./c-project
-
+```
 #run Project
+```cmd
 bank_management_system.c
 
 ```
